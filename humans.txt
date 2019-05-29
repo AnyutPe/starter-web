@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anyut Pe     anyutpe@git.training  AnyutPe
 
 # THANKS
 
