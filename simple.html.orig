@@ -7,7 +7,7 @@ Copyright 2019 Git.training
 <<<<<<< HEAD
 	<title>A very respectful website</title>
 =======
-	<title>A Great Website</title>
+	<title>AAA Great Website</title>
 >>>>>>> realwork
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
@@ -23,18 +23,14 @@ Copyright 2019 Git.training
 	<!-- Content Goes Here -->
 		<p>
 <<<<<<< HEAD
-			I am not sure what will go here, but I am sure it will be nice
-		</p>
-	</main>
-	<footer class="container">
-		<p>&copy; Anyut Pe 2019</p>
+			it will be...
 =======
-			Some interesting stuff goes here
+			SSSome interesting stuff goes here
+>>>>>>> realwork
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Git training 2019</p>
->>>>>>> realwork
+		<p>&copy; Anyut PE</p>
 	</footer>
 </body>
 </html>
